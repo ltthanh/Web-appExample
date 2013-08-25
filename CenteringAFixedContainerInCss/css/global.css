@@ -1,0 +1,11 @@
+body {
+	background: #aaa;
+}
+.container{
+	position: fixed;
+	background: #fff;
+	width: 80%;
+	top: 15%;
+	left: 5%;
+	padding: 5%;
+}
