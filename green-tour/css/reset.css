@@ -1,0 +1,33 @@
+/* --reset.css-- */
+*{
+	margin: 0px;
+	padding: 0px;
+}
+a{
+	text-decoration: none;
+	color: #0066cc;
+	font-weight: bold;
+}
+a:hover{
+	color: #000000;
+	font-weight: bold;
+}
+body{
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-size: 14px;
+	line-height: 20px;
+	color: #333;
+}
+a.link-connect{
+	color: #777777;
+}
+.banner-slide-header a.slidesjs-next,
+.banner-slide-header a.slidesjs-previous,
+.banner-slide-header a.slidesjs-play,
+.banner-slide-header a.slidesjs-stop, .banner-slide-header .slidesjs-pagination {
+	display: none;
+}
+img {
+	border: 0;
+	padding: 0px;		
+}

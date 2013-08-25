@@ -1,0 +1,109 @@
+FIELDSET {
+    border: 1px solid #E1E1E1;
+    margin: 0;
+    padding: 0.5em;
+}
+LEGEND {
+    color: #181818;
+    font-weight: bold;
+    padding: 0 5px;
+}
+
+LABEL.inputLabel {
+    float: left;
+    padding-left: 10px;
+    width: 11em;
+}
+
+input#login-email-address, input#login-password, input#company, input#firstname, input#lastname, input#suburb, input#street-address, input#city, input#state, select#country, input#telephone, input#fax, input#email-address, input#contactname {
+    margin: 0 0 3px;
+    vertical-align: middle;
+    width: 49%;
+}
+
+#accountDefaultHeading, #accountHistoryDefaultHeading, #accountNotificationsHeading, #addressBookDefaultHeading, #advSearchDefaultHeading, #advSearchResultsDefaultHeading, #checkoutShippingHeading, #checkoutPaymentHeading, #checkoutConfirmDefaultHeading, #checkoutPayAddressDefaultHeading, #checkoutShipAddressDefaultHeading, #checkoutSuccessHeading, #conditionsHeading, #cookieUsageDefaultHeading, #createAcctDefaultHeading, #createAcctSuccessHeading, #customerAuthDefaultHeading, #discountcouponInfoHeading, #maintenanceDefaultHeading, #downloadTimeOutHeading, #gvFaqDefaultHeading, #gvRedeemDefaultHeading, #gvSendDefaultHeadingDone, #indexDefaultHeading, #loginDefaultHeading, #logoffDefaultHeading, #pageNotFoundHeading, #pageTwoHeading, #pageThreeHeading, #pageFourHeading, #privacyDefaultHeading, #shippingInfoHeading, #cartDefaultHeading, #siteMapHeading, #sslCheckHeading, #timeoutDefaultHeading, #unsubDefaultHeading, #ezPagesHeading, #acctNewslettersDefaultHeading {
+    color: #383838;
+    font-family: "Times New Roman",Times,serif;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 24px;
+    margin: 0;
+    padding: 5px 0 16px 11px;
+}
+input, select, textarea {
+    color: #010101;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 12px;
+    line-height: normal;
+}
+
+#indexDefault, #specialsListing, #newProductsDefault, #allProductsDefault, #loginDefault, #productGeneral, #shoppingCartDefault {
+    margin: 0;
+}
+.centerColumn {
+
+}
+
+.clearBoth {
+    clear: both;
+}
+.buttonRow, .buttonRow2 {
+    margin: 0;
+    padding: 7px 0;
+}
+
+.buttonRow input, .buttonRow2 input, .buttonRow3 input {
+    background: none repeat scroll 0 0 transparent;
+    border: medium none;
+    padding: 0;
+}
+.back {
+    float: left;
+}
+.important {
+    font-weight: bold;
+    margin: 5px;
+}
+
+.information {
+    padding: 8px 0 0 16px;
+}
+
+.forward {
+    float: right;
+}
+.alert {
+    color: #FF0000;
+    margin-left: 0.5em;
+    margin-right: 5px;
+}
+
+#gender-male, #gender-female, #email-format-text {
+    margin-left: 8px;
+}
+
+LABEL.checkboxLabel, LABEL.radioButtonLabel {
+    margin-left: 5px;
+}
+
+#gender-male, #gender-female, #email-format-text {
+    margin-left: 8px;
+}
+input#state {
+    margin: 0 0 3px;
+    width: 156px;
+}
+input#dob, input#postcode {
+    margin: 0 0 3px;
+    vertical-align: middle;
+    width: 70px;
+}
+select#country, select#stateZone {
+    margin: 0 0 3px;
+    width: 160px;
+}
+.buttonRow input, .buttonRow2 input, .buttonRow3 input {
+    background: none repeat scroll 0 0 transparent;
+    border: medium none;
+    padding: 0;
+}

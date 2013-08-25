@@ -1,0 +1,59 @@
+/* --- style for Doanh nghiep moi --- */
+#dnm-tintuc-content{
+	position: relative;
+}
+#dnm-tintuc-content .slidesjs-pagination{
+	display: none;
+}
+#dnm-tintuc-content .slidesjs-previous{
+	background-image: url("../images/bt-pre-news.png");
+    background-repeat: no-repeat;
+    display: block;
+    height: 48px;
+    left: 2px;
+    margin-right: 5px;
+    overflow: hidden;
+    position: absolute;
+    text-indent: -9999px;
+    top: 41%;
+    width: 15px;
+    z-index: 10;
+}
+#dnm-tintuc-content .slidesjs-next{
+	background-image: url("../images/bt-next-news.png");
+    background-repeat: no-repeat;
+    display: block;
+    height: 48px;
+    margin-right: 5px;
+    overflow: hidden;
+    position: absolute;
+    right: 2px;
+    text-indent: -9999px;
+    top: 41%;
+    width: 50px;
+    z-index: 10;
+}
+.sub-tintuc-dnm {
+
+}
+.sub-tintuc-dnm .img-sub-tintuc-dnm {
+	width: 35%;	
+	float: left;	
+}
+.sub-tintuc-dnm .content-sub-tintuc-dnm{
+	width: 50%;
+	float: left;
+	clear: right;
+	height: 200px;
+	overflow: hidden;
+	font-size: 12px;
+	color: #555555;
+}
+.sub-tintuc-dnm .content-sub-tintuc-dnm a{ 
+	color: #555555;
+}
+.sub-tintuc-dnm div img{	
+	height: 130px;
+	width: 130px;
+	margin: 10px 30px;
+}

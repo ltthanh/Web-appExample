@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="description" content="BFC - 3 column layout" />
+<meta charset=utf-8 />
+<title>BFC - 3 column layout</title>
+<style type="text/css">
+aside {
+  float: left;
+  background: #ccc;
+  width: 150px;
+  margin-right: 20px;
+  height: 400px;
+}
+
+.sidebar {
+  float: right;
+  width: 100px;
+  margin-left: 20px;
+  height: 400px;
+  background: #ddd;
+}
+
+main {
+  display: table-cell;
+  width: 10000px;
+  vertical-align: top;
+  height: 400px;
+  background: yellow;
+}
+</style>
+</head>
+<body>
+  <aside role="complementary">
+    Left column
+  </aside>
+  <div class="sidebar">
+    Right column
+  </div>
+  <main role="main">
+    This is the main content area. And it's stretchy!
+  </main>
+</body>
+</html>

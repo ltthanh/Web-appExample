@@ -1,0 +1,74 @@
+/* ----- stylde for main-content ----- */
+.tintuc-main-content{
+	width: 100%;
+}
+.tintuc-main-content-1{
+	float: left;
+	width: 50%;
+	height: 200px;
+}
+.tintuc-main-content-2{
+	float: right;
+	width: 50%;
+	height: 200px;
+}
+.cover-sub-tin-tuc{
+
+}
+.sub-tin-tuc{
+	width: 40%;
+	float: left;
+	clear: right;
+	padding: 10px 25px;
+}
+.sub-tin-tuc div{
+	float: left;
+	clear: right;
+	width: 50%;
+}
+.sub-tin-tuc div img{
+	width: 80%;
+}
+.sub-tin-tuc div a{
+	color: #555555;
+	font-size: 12px;
+	font-weight: normal;
+}
+.dnv-main-content{
+	clear: both;
+	width: 100%;
+}
+.title-dnv{
+	float: left;
+	width: 100%;
+}
+.content-dnv{
+	width: 100%;
+	clear: both;
+	float: left;
+	height: auto;
+}
+.sub-content-dnv{
+	width: 10%;
+	clear: right;
+	float: left;
+	margin: 10px 0px;
+}
+.img-sub-content-dnv{
+	overflow: hidden;
+	height: 80px;
+	width: 80px;
+	margin: 0 auto;
+}
+.img-sub-content-dnv img{
+	width: 64px;
+	height: 64px;
+	margin: 7px;
+}
+.text-sub-content-dnv{
+	margin: 0 auto;
+	text-align: center;
+}
+.linkdn-main-content{
+	
+}

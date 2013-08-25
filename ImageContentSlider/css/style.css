@@ -1,0 +1,39 @@
+/* ---- */
+*{
+	padding: 0px;
+	margin: 0px;
+}
+div#wrap{
+	width: 80%;
+	height: auto;
+	margin: 0 auto;
+}
+
+#slide img{
+	padding: 5px 2px;
+	width: 500px;
+	height: 350px;
+	overflow: hidden;	
+}
+.content{
+	text-align: justify;
+	padding: 2px 2px;
+}
+
+#slide{
+	width: 90%;	
+	height: 448px;
+	text-align: center;
+	background-color: #333;
+	overflow: hidden;
+}
+.next{
+	padding: 2px 5px;
+	text-decoration: none;
+	color: blue;
+}
+.previous{
+	padding: 2px 5px;
+	text-decoration: none;
+	color: blue;
+}

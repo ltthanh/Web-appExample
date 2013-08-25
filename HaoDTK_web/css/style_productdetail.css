@@ -1,0 +1,126 @@
+/** -- style product detail -- **/
+#indexDefault, #specialsListing, #newProductsDefault, #allProductsDefault, #loginDefault, #productGeneral, #shoppingCartDefault {
+    margin: 0;
+}
+
+#productName {
+    clear: both;
+    color: #383838;
+    font-family: "Times New Roman",Times,serif;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 24px;
+    margin: 0;
+    padding: 5px 0 16px 11px;
+}
+.categoryIcon {
+    padding: 10px;
+}
+.wrapper {
+    overflow: hidden;
+    width: 100%;
+}
+.aligncenter {
+    text-align: center;
+}
+.fleft {
+    float: left;
+}
+
+.categoryIcon a {
+    color: #DB1918;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#productMainImage, #reviewsInfoDefaultProductImage, #productReviewsDefaultProductImage, #reviewWriteMainImage {
+    line-height: 20px;
+    margin: 10px;
+    text-align: center;
+}
+
+#productMainImage a, #reviewsInfoDefaultProductImage a, #productReviewsDefaultProductImage a, #reviewWriteMainImage a {
+    color: #DB1918;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+}
+#productPrices {
+    color: #181818;
+    font-family: "Times New Roman",Times,serif;
+    font-size: 20px;
+    font-weight: normal;
+    line-height: 22px;
+}
+.normalprice {
+    color: #95805D;
+    font-family: "Times New Roman",Times,serif;
+    font-size: 20px;
+    font-weight: normal;
+    line-height: 22px;
+    text-decoration: line-through;
+}
+
+.productSpecialPrice, .productSalePrice, .productSpecialPriceSale {
+    color: #181818;
+    font-family: "Times New Roman",Times,serif;
+    font-size: 20px;
+    font-weight: normal;
+    line-height: 22px;
+}
+
+#productDescription {
+    margin: 0 10px;
+    padding: 0;
+}
+
+.clearBoth {
+    clear: both;
+}
+
+#cartAdd {
+    border: 1px solid #E1E1E1;
+    float: right;
+    margin: 1em;
+    padding: 1em;
+    text-align: center;
+}
+
+.centerColumn ul {
+    color: #181818;
+    margin: 8px 15px;
+    padding: 0;
+}
+.back {
+    float: left;
+}
+
+.navNextPrevWrapper {
+    margin: 0 10px;
+    padding: 10px 0;
+    text-align: center;
+}
+
+.navNextPrevCounter {
+    font-size: 0.9em;
+    margin: 0;
+}
+
+.navNextPrevList {
+    display: inline;
+    list-style-type: none;
+    margin: 0 2px 3px 0;
+    white-space: nowrap;
+}
+
+.buttonRow, .buttonRow2 {
+    margin: 0;
+    padding: 7px 0;
+}
+
+.centeredContent, TH, #cartEmptyText, #cartBoxGVButton, #navCatTabsWrapper, #navEZPageNextPrev, #bannerOne, #bannerTwo, #bannerThree, #bannerFour, #bannerFive, #bannerSix, #siteinfoLegal, #siteinfoCredits, #siteinfoStatus, #siteinfoIP, .center, .cartRemoveItemDisplay, .cartQuantityUpdate, .cartQuantity, #cartBoxGVBalance, .leftBoxHeading, .centerBoxHeading, .rightBoxHeading, .productListing-data, .accountQuantityDisplay, .ratingRow, LABEL#textAreaReviews, #productMainImage, #reviewsInfoDefaultProductImage, #productReviewsDefaultProductImage, #reviewWriteMainImage, .centerBoxContents, .specialsListBoxContents, .categoryListBoxContents, .additionalImages, .centerBoxContentsSpecials, .centerBoxContentsAlsoPurch, .centerBoxContentsFeatured, .centerBoxContentsNew, .gvBal, .attribImg {
+    width: auto;
+}

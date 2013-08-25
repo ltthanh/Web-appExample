@@ -1,0 +1,122 @@
+/* --- style for main-contain -> lienhe-content, tin-tuc ---*/
+.left-content{
+	float: left;
+	width: 75%;
+	padding: 10px 2px;
+}
+.lh-content-row{
+	clear: both;	
+	padding: 20px 0px;
+	padding-left: 20px;
+}
+.lb-content-col-1{
+	float: left;
+	width: 20%;
+}
+.lb-content-col-2{
+	float: left;
+	clear: right;
+	width: 50%;
+}
+.lb-content-col-2 textarea{
+	width: 495px;
+	height: 180px;
+}
+.quang-cao-right{
+	float: right;
+	clear: right;
+	width: 24%;
+	padding: 10px 2px;	
+}
+.quang-cao-right div{
+	clear: both;
+	text-align: center;
+}
+.quang-cao-right div img{	
+	width: 100%;
+	height: 400px;
+}
+.gt-content{
+	margin-left: 40px;
+	margin-right: 40px;
+}
+.gt-content p{
+	padding: 5px 0px;
+	text-align: justify;
+}
+.title-gt{
+	font-size: 16px;
+	text-transform: uppercase;
+}
+.tintuc-content{
+	width: 100%;
+	clear: both;
+}
+.tintuc-lienquan{
+	width: 100%;
+	clear: both;
+	padding-left: 25px;
+	margin-top: 20px;
+}
+.tintuc-lienquan ul{
+	list-style-image: url('../images/list-style.png');
+}
+.sub-tintuc{
+	width: 95%;
+	margin: 0px 5px;
+	clear: both;
+	height: 100px;
+	padding: 10px 0px;
+}
+.sub-tintuc img{
+	width: 130px;
+	height: 100px;
+	border: none;
+}
+.hr-green{
+	border-bottom: 1px dotted #6f9f0f;	
+}
+.img-sub-tintuc{
+	width: 20%;
+	float: left;	
+}
+.nd-sub-tintuc{
+	width: 80%;
+	float: right;
+	clear: right;
+}
+.td-sub-tintuc{
+	clear: both;
+}
+.bd-sub-tintuc{
+	clear: both;
+}
+.xt-sub-tintuc{
+	clear: both;
+	padding: 2px 3px;	
+	font-size: 11px;
+	border-radius: 6px 6px 6px 6px;	
+    border-style: none;
+    background-color: #e5e5e5;
+    border-width: 1px;
+    text-align: center;
+    width: 70px;
+    float: right;
+}
+.xt-sub-tintuc a{
+	color: #6a6a6a;
+}
+.tintuc-lienquan-left{
+	width: 45%;
+	float: left;
+	padding: 0px 5px;
+}
+.tintuc-lienquan-right{
+	width: 45%;
+	float: left;
+	clear: right;
+	padding: 0px 20px;
+}
+.tintuc-lienquan a{
+	font-size: 12px;
+}

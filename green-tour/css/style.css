@@ -1,0 +1,160 @@
+.container{
+	margin-right: auto;
+	margin-left: auto;
+	width: 1020px;
+}
+.container:after {
+	clear: both;
+}
+div.menu-bar ul{
+	list-style: none;	
+	text-align: center;
+	margin-right: -7px;
+}
+div.menu-bar ul li{
+	float: left;		
+    padding: 8px 23px;
+    width: 15%;
+}
+li.li-menu-bar{
+	background: #fccd4d;
+	background: -moz-linear-gradient(top, #D7D7D7 0%, #fcf5e2 50%, #FFFFFF 0%, #D4D4D6 100%);
+	background: -webkit-gradient(left top, left bottom, color-stop(0%, #D7D7D7), color-stop(31%, #D7D7D7), color-stop(73%, #D7D7D7), color-stop(100%, #C7C7C7));
+	background: -webkit-linear-gradient(top, #D7D7D7 0%, #fcf5e2 50%, #FFFFFF 0%, #D4D4D6 100%);
+	background: -o-linear-gradient(top, #D7D7D7 0%, #fcf5e2 50%, #FFFFFF 0%, #D4D4D6 100%);
+	background: -ms-linear-gradient(top, #D7D7D7 0%, #fcf5e2 50%, #FFFFFF 0%, #D4D4D6 100%);
+	background: linear-gradient(to bottom, #D7D7D7 0%, #fcf5e2 50%, #FFFFFF 0%, #D4D4D6 100%)
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#D7D7D7', endColorstr='#D7D7D7', GradientType=0 );	
+}
+li.li-menu-bar-right{
+	margin-right: 5px;
+}
+/* -------- font and color ---------- */
+.title-blue{
+	color: #576699;
+}
+.title-gold{
+	color: #fdad23;
+}
+.title-black{
+	color: #000000;
+}
+.textbox-input{
+	background-color: #e5e5e5;
+}
+
+.title-gray{
+	color: #6e6e6e;
+}
+.title-tuyendung{
+	color: #728d22;
+}
+.bg-button-gray{
+	background-color: #e5e5e5;	
+}
+/* ----- Len layout cho toan bo trang web ----- */
+/* ==============================================
+ * Thiet lap cac the div tuong ung cho cac phan tu
+ * chinh cua trang web. Bao gom cac phan header,
+ * left, right, footer va main-content.
+ * ==============================================
+ */
+.header, .menu-bar, .top-content, .main-content, .footer{
+	float: left;
+	clear: both;
+	width: 100%;			
+}
+.logo-header{
+	float: left;	
+	z-index: 1;
+	position: absolute;
+}
+.banner-slide-header{
+	float: left;
+	clear: right;
+	width: 100%;
+	z-index: 0;
+	position: relative;	
+	overflow: hidden;
+}
+#slides {
+    display: none
+}
+.top-content{
+	margin-top: 10px;
+}
+.content-slide-body{
+	width: 75%;
+	height: 240px;
+	float: left;
+	padding-right: 10px;	
+}
+#slide-body{	
+	border-radius: 10px 10px 10px 10px;
+	-moz-border-radius: 10px 10px 10px 10px;
+	-webkit-border-radius: 10px 10px 10px 10px;
+	position: relative;
+}
+#slide-body .slidesjs-navigation{
+	
+}
+#slide-body:hover #slide-body a.slidesjs-next{
+	opacity: 1;
+}
+#slide-body .slidesjs-container .slidesjs-control{
+		
+}
+#slide-body a.slidesjs-next{
+	background-image: url(../images/compress/bt-next.png);
+    background-repeat: no-repeat;
+    display:block;    
+    width: 48px;
+    height:48px;
+    overflow: hidden;
+    text-indent: -9999px;
+    float: right;
+    margin-right:5px;
+}
+#slide-body a.slidesjs-previous{
+	background-image: url(../images/compress/bt-pre.png);
+    background-repeat: no-repeat;
+    display:block;
+    width:12px;
+    width: 48px;
+    height:48px;
+    overflow: hidden;
+    text-indent: -9999px;
+    float: left;
+    margin-right:5px;
+}
+#slide-body .slidesjs-pagination{
+	bottom: 1px;    
+    list-style: none;
+    position: absolute;
+    right: 5px;
+}
+#slide-body .slidesjs-pagination li{
+	float: left;
+    margin: 0 1px;
+}
+#slide-body .slidesjs-pagination li a{	
+	width: 10px;
+	height: 10px;
+	background-color: transparent;
+}
+#slide-body .slidesjs-pagination li a:active{	
+	color: #9e2020;
+}
+#slide-body .slidesjs-pagination li a:visited{
+
+}
+.content-search{
+	float: right;
+	clear: right;
+	width: 22%;
+	background-color: #0778cf;
+	border-radius: 10px 10px 10px 10px;
+	-moz-border-radius: 10px 10px 10px 10px;
+	-webkit-border-radius: 10px 10px 10px 10px;
+	border: 1px solid #0778cf;
+}

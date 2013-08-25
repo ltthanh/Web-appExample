@@ -1,0 +1,46 @@
+/** review css **/
+.navSplitPagesLinks {
+    font-size: 10px;
+    margin: 7px 10px;
+}
+#reviewsDefault hr {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    border-color: #E1E1E1 -moz-use-text-color -moz-use-text-color;
+    border-image: none;
+    border-right: 0 none;
+    border-style: solid none none;
+    border-width: 1px 0 0;
+    color: #D8D8D8;
+    margin: 5px 0;
+}
+#reviewsDefault .smallProductImage {
+    padding: 0 10px 10px;
+}
+.back {
+    float: left;
+}
+.button-padding {
+    padding: 0 0 0 10px;
+}
+.forward {
+    float: right;
+}
+.buttonRow, .buttonRow2 {
+    margin: 0;
+    padding: 7px 0;
+}
+#reviewsDefault .name-type {
+    color: #DB1918;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+}
+#reviewsDefault .rating, .bold {
+    padding: 5px 0;
+}
+.rating {
+}

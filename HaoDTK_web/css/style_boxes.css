@@ -1,0 +1,182 @@
+.box {
+    margin - bottom: 15px;
+}.box - head {
+    font - size: 20px;
+    color: #383838;line-height:24px;font-weight:bold;margin:0;padding:7px 0 17px 25px;font-family:"Times New Roman",Times,serif;}.box-head a{color:# 383838;
+    text - decoration: none;
+}.box - head a: hover {
+    text - decoration: underline;
+}.box - body {
+    margin: 0 17px 0 11px;
+    border - bottom: solid 1px# e3e4e2;
+    padding - bottom: 25px;
+}.box ul {
+    padding: 3px 0 4px 18px!important;
+    margin: 0!important;
+}.box ul li {
+    line - height: 26px;
+    background: url(.. / images / list - marker.gif) no - repeat 0 10px;
+    padding - left: 13px;
+}.box ol {
+    padding: 3px 0 4px 18px!important;
+    margin: 0!important;
+    list - style: decimal inside;
+}.box ol li {
+    line - height: 26px;
+}.box.img {
+    border: none;
+    text - align: center;
+    padding: 5px 0 0 0;
+}.box.price {
+    text - align: center;
+}#
+categories {}#
+moreinformation {}#
+information {}#
+bestsellers {}#
+ezpages {}#
+orderhistory {}#
+orderhistory.box - body img {
+    background: #FFFFFF;
+    padding: 2px;
+    border: 1px solid# AAAAAA;
+    vertical - align: middle;
+    margin: 2px 0px 2px 15px;
+}#
+bannerbox {}#
+bannerbox2 {}#
+bannerboxall {}#
+featured a img,
+#whatsnew a img,
+#specials a img,
+#reviews a img,
+#manufacturerinfo img,
+#productnotifications img {
+    margin: 0 0 8px;
+}#
+reviews img {
+    margin: 5px 0 0;
+}#
+featured {}#
+featured.box - body.normalprice {
+    text - decoration: line - through;
+    font - family: "Times New Roman",
+    Times,
+    serif;
+    font - size: 20px;
+    font - weight: normal;
+    color: #95805d;line-height:22px;padding-right:10px;}# featured.box - body.productSpecialPrice,
+    .productSalePrice,
+    .productSpecialPriceSale {
+        font - family: "Times New Roman",
+        Times,
+        serif;
+        font - size: 20px;
+        font - weight: normal;
+        color: #181818;line-height:22px;}# whatsnew {}#
+        whatsnew.box - body.normalprice {
+            text - decoration: line - through;
+            font - family: "Times New Roman",
+            Times,
+            serif;
+            font - size: 20px;
+            font - weight: normal;
+            color: #95805d;line-height:22px;padding-right:10px;}# whatsnew.box - body.productSpecialPrice,
+            .productSalePrice,
+            .productSpecialPriceSale {
+                font - family: "Times New Roman",
+                Times,
+                serif;
+                font - size: 20px;
+                font - weight: normal;
+                color: #181818;line-height:22px;}# specials {}#
+                specials.box - body.normalprice {
+                    text - decoration: line - through;
+                    font - family: "Times New Roman",
+                    Times,
+                    serif;
+                    font - size: 20px;
+                    font - weight: normal;
+                    color: #95805d;line-height:22px;padding-right:10px;}# specials.box - body.productSpecialPrice,
+                    .productSalePrice,
+                    .productSpecialPriceSale {
+                        font - family: "Times New Roman",
+                        Times,
+                        serif;
+                        font - size: 20px;
+                        font - weight: normal;
+                        color: #181818;line-height:22px;}# reviews {}#
+                        reviews.box - body {
+                            text - align: center;
+                        }#
+                        manufacturerinfo {}#
+                        productnotifications {}#
+                        productnotifications.box - body {
+                            text - align: center;
+                        }#
+                        search {}#
+                        search.box - body {
+                            text - align: center;
+                        }#
+                        search input {
+                            vertical - align: top;
+                        }#
+                        search.input1 {
+                            border: solid 0px;
+                            border: solid 1px# c8c8c8;
+                            font - family: Tahoma,
+                            Geneva,
+                            sans - serif;
+                            font - size: 11px;
+                            color: #898989;padding:4px 2px 3px 5px;width:75%;}# manufacturers {}#
+                            manufacturers.box - body {
+                                text - align: center;
+                            }#
+                            manufacturers select {
+                                font - family: Tahoma,
+                                Geneva,
+                                sans - serif;
+                                font - size: 10px;
+                                color: #898989;border:solid 1px # c8c8c8;
+                                width: 90 % ;
+                            }#
+                            currencies {}#
+                            currencies.box - body {
+                                text - align: center;
+                            }#
+                            currencies select {
+                                font - family: Tahoma,
+                                Geneva,
+                                sans - serif;
+                                font - size: 10px;
+                                color: #898989;border:solid 1px # c8c8c8;
+                                width: 90 % ;
+                            }#
+                            tellafriend {}#
+                            recordcompanies {}#
+                            recordcompanies.box - body {
+                                text - align: center;
+                            }#
+                            musicgenres {}#
+                            musicgenres.box - body {
+                                text - align: center;
+                            }#
+                            languages {}#
+                            languages.box - body {
+                                text - align: center;
+                            }#
+                            whosonline {}#
+                            whosonline.box - body {
+                                text - align: center;
+                            }#
+                            documentcategories {}#
+                            shoppingcart {}#
+                            shoppingcart.cart_line {
+                                border - bottom: solid 1px# eeeeee;
+                            }#
+                            shoppingcart.price {
+                                text - align: right;
+                            }#
+                            shoppingcart# cartBoxEmpty {
+                                text - align: center;
+                            }

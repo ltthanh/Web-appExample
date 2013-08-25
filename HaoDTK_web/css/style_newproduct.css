@@ -1,0 +1,220 @@
+/* -- style for new product page --*/
+#newProductsDefault, #allProductsDefault, #featuredDefault, #specialsListing, #reviewsDefault {
+
+}
+#indexDefault, #specialsListing, #newProductsDefault, #allProductsDefault, #loginDefault, #productGeneral, #shoppingCartDefault {
+    margin: 0;
+}
+.centerColumn {
+
+}
+#sorter {
+    margin: 10px 10px -10px;
+}
+.back {
+    float: left;
+}
+.navSplitPagesResult {
+    font-size: 10px;
+    margin: 7px 10px;
+}
+
+.forward {
+    float: right;
+}
+.navSplitPagesLinks {
+    font-size: 10px;
+    margin: 7px 10px;
+}
+.navSplitPagesLinks a {
+    color: #161616;
+}
+#newProductsDefault td, #allProductsDefault td, #featuredDefault td {
+    border: medium none;
+    padding: 10px;
+}
+
+.product-col {
+    border: 1px solid #EEEEEE;
+    margin-bottom: 5px;
+    padding: 17px 10px 22px 15px;
+}
+
+.img {
+    border-bottom: 1px solid #EEEEEE;
+    margin-bottom: 25px;
+    padding: 37px 0 10px;
+    text-align: center;
+}
+.button {
+    padding: 0 20px 0 5px;
+}
+.fleft {
+    float: left;
+}
+
+.price {
+    color: #181818;
+    font-family: "Times New Roman",Times,serif;
+    font-size: 20px;
+    font-weight: normal;
+    line-height: 22px;
+}
+.price strong {
+    font-weight: normal;
+}
+.normalprice {
+    color: #95805D;
+    font-family: "Times New Roman",Times,serif;
+    font-size: 20px;
+    font-weight: normal;
+    line-height: 22px;
+    text-decoration: line-through;
+}
+.normalprice, .productSpecialPriceSale {
+
+}
+
+.productSpecialPrice, .productSalePrice, .productSpecialPriceSale {
+    color: #181818;
+    font-family: "Times New Roman",Times,serif;
+    font-size: 20px;
+    font-weight: normal;
+    line-height: 22px;
+}
+
+.buttonRow, .buttonRow2 {
+    margin: 0;
+    padding: 7px 0;
+}
+.back {
+    float: left;
+}
+#gvSendDefaultHeadingSend, #newProductsDefaultHeading, #allProductsDefaultHeading, #featuredDefaultHeading, #specialsListingHeading, #reviewsDefaultHeading {
+    color: #383838;
+    font-family: "Times New Roman",Times,serif;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 24px;
+    margin: 0;
+    padding: 5px 0 16px 11px;
+}
+#contentColumnMain, #navColumnOne, #navColumnTwo, .centerBoxContents, .specialsListBoxContents, .categoryListBoxContents, .additionalImages, .centerBoxContentsSpecials, .centerBoxContentsAlsoPurch, .centerBoxContentsFeatured, .centerBoxContentsNew, .alert {
+    vertical-align: top;
+}
+.clearBoth {
+    clear: both;
+}
+#newProductsDefault, #allProductsDefault, #featuredDefault, #specialsListing, #reviewsDefault {
+}
+#indexDefault, #specialsListing, #newProductsDefault, #allProductsDefault, #loginDefault, #productGeneral, #shoppingCartDefault {
+    margin: 0;
+}
+.centerColumn {
+}
+
+#indexCategoriesHeading, #productListHeading {
+    color: #383838;
+    font-family: "Times New Roman",Times,serif;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 24px;
+    margin: 0;
+    padding: 5px 0 16px 11px;
+}
+
+#categoryImgListing {
+    margin: 0 0 10px;
+    padding: 0;
+}
+#indexProductListCatDescription, #categoryDescription {
+    border-bottom: 1px solid #E1E1E1;
+    margin-bottom: 20px;
+    padding-bottom: 15px;
+}
+.buttonRow, .buttonRow2 {
+    margin: 0;
+    padding: 7px 0;
+}
+.forward {
+    float: right;
+}
+.clearBoth {
+    clear: both;
+}
+
+.back {
+    float: left;
+}
+.navSplitPagesResult {
+    font-size: 10px;
+    margin: 7px 10px;
+}
+.centerColumn table {
+}
+.tabTable {
+    border-left: 1px solid #E1E1E1;
+    margin: 0 0 5px;
+}
+
+.tabTable th {
+    font-size: 12px;
+}
+.tabTable th {
+    border-bottom: 1px solid #E1E1E1;
+    border-right: 1px solid #E1E1E1;
+    border-top: 1px solid #E1E1E1;
+    padding: 5px 10px;
+    text-align: center;
+}
+.tabTable td {
+    color: #181818;
+    font-family: "Times New Roman",Times,serif;
+    font-size: 20px;
+    font-weight: normal;
+    line-height: 22px;
+}
+.tabTable td {
+    border-bottom: 1px solid #E1E1E1;
+    border-right: 1px solid #E1E1E1;
+    padding: 5px;
+}
+td {
+    text-align: left;
+    vertical-align: top;
+}
+form, td {
+    margin: 0;
+    padding: 0;
+}
+table, td, img {
+    border: 0 none;
+}
+table, td {
+    border-collapse: collapse;
+    font-size: 100%;
+}
+.tabTable td a {
+    color: #DB1918;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+}
+a {
+    color: #6E6E6E;
+    outline: medium none;
+    text-decoration: underline;
+}
+a, #navEZPagesTOC ul li a {
+    color: #181818;
+    text-decoration: none;
+}
+
+.tabTable td .listingDescription {
+    color: #181818;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 12px;
+    line-height: 16px;
+    padding: 5px 0;
+}
